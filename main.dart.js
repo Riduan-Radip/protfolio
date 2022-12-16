@@ -65871,7 +65871,7 @@ q=A.dy(20)
 q=A.aL(o,A.a6o(m,20,A.Fa(o,o,o,o,o,o,o,o,!0,new A.dC(4,A.dy(20),B.dm),o,o,o,o,o,o,o,o,o,o,new A.dC(4,q,B.dn),o,o,o,o,o,B.eH,"Message",o,o,o,o,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),B.vF,4,4,!0,B.eI),o,o,o,o,B.dC,o,o)
 if(p.z){m=A.dy(25)
 m=A.mG(!1,!0,A.aL(o,A.kt(p.y?B.lI:B.N5,o,o),o,o,new A.bF(B.Gl,o,o,m,o,o,B.F),50,B.AU,o,120),o,!0,o,o,o,o,o,o,o,o,o,new A.ael(p,a),o,B.G,o,o)}else{m=A.dy(25)
-m=A.aL(o,A.kt(p.y?B.lI:B.N9,o,o),o,o,new A.bF(B.rX,o,o,m,o,o,B.F),50,B.AV,o,120)}return A.ahK(A.hj(A.a([B.eC,n,B.eC,l,s,r,q,B.eC,m,new A.bG(new A.af(0,0,0,a.L(t.w).f.e.d),o,o)],t.p),B.b0,B.J,B.bM),o,!0,B.aj)}}
+m=A.aL(o,A.kt(p.y?B.lI:B.N8,o,o),o,o,new A.bF(B.rX,o,o,m,o,o,B.F),50,B.AV,o,120)}return A.ahK(A.hj(A.a([B.eC,n,B.eC,l,s,r,q,B.eC,m,new A.bG(new A.af(0,0,0,a.L(t.w).f.e.d),o,o)],t.p),B.b0,B.J,B.bM),o,!0,B.aj)}}
 A.aeq.prototype={
 $0(){},
 $S:0}
@@ -65957,7 +65957,7 @@ return A.ahd(q,r,B.mN,s,B.eJ,null)},
 $S:406}
 A.Rt.prototype={
 I(a){var s=null,r=5000,q=t.w
-return A.aL(s,A.hj(A.a([new A.bG(B.ae,A.cm("Html",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,1,B.cV,B.Na,a.L(q).f.a.a/1.3),new A.bG(B.ae,A.cm("Flutter",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,0.6,B.cV,B.Nj,a.L(q).f.a.a/1.3),new A.bG(B.ae,A.cm("Css",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,0.4,B.cV,B.Nc,a.L(q).f.a.a/1.3),new A.bG(B.ae,A.cm("JavaScript",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,0.2,B.cV,B.Ng,a.L(q).f.a.a/1.3),new A.bG(B.ae,A.cm("React",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,0.1,B.cV,B.Nf,a.L(q).f.a.a/1.3)],t.p),B.b0,B.J,B.Z),s,s,s,s,s,s,s)}}
+return A.aL(s,A.hj(A.a([new A.bG(B.ae,A.cm("Html",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,1,B.cV,B.N9,a.L(q).f.a.a/1.3),new A.bG(B.ae,A.cm("Flutter",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,0.6,B.cV,B.Nj,a.L(q).f.a.a/1.3),new A.bG(B.ae,A.cm("Css",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,0.4,B.cV,B.Nc,a.L(q).f.a.a/1.3),new A.bG(B.ae,A.cm("JavaScript",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,0.2,B.cV,B.Ng,a.L(q).f.a.a/1.3),new A.bG(B.ae,A.cm("React",s,s,s,A.EW(B.i,20,B.o),s,s),s),A.Ft(!0,r,B.d8,7,0.1,B.cV,B.Nf,a.L(q).f.a.a/1.3)],t.p),B.b0,B.J,B.Z),s,s,s,s,s,s,s)}}
 A.Rv.prototype={
 I(a){var s=null
 return A.hG(A.a([A.mG(!1,!0,A.aL(s,s,s,s,B.x3,30,B.ae,s,30),s,!0,s,s,s,s,s,s,s,s,s,new A.agb(),s,s,s,s),A.mG(!1,!0,A.aL(s,s,s,s,B.x4,30,B.ae,s,30),s,!0,s,s,s,s,s,s,s,s,s,new A.agc(),s,s,s,s),A.mG(!1,!0,A.aL(s,s,s,s,B.x5,30,B.ae,s,30),s,!0,s,s,s,s,s,s,s,s,s,new A.agd(),s,s,s,s),A.mG(!1,!0,A.aL(s,new A.ht(new A.d7("assets/mail.png"),s,s,B.be,B.w,s),s,s,B.lo,40,B.ae,s,40),s,!0,s,s,s,s,s,s,s,s,s,new A.age(),s,s,s,s)],t.p),B.a3,B.J,B.Z)}}
@@ -69803,7 +69803,7 @@ B.AY=new A.af(20,20,20,20)
 B.AZ=new A.af(20,60,0,0)
 B.B_=new A.af(20,7,0,5)
 B.B0=new A.af(30,0,0,0)
-B.B1=new A.af(30,20,0,10)
+B.B1=new A.af(30,0,0,10)
 B.dC=new A.af(40,10,40,10)
 B.B2=new A.af(4,0,4,0)
 B.Q6=new A.af(4,4,4,5)
@@ -71126,8 +71126,8 @@ B.HF=new A.wD(1333)
 B.kf=new A.wD(2222)
 B.HG=new A.Hu(null,null)
 B.Kt=new A.q(!0,B.i,null,null,null,null,20,B.o,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.N8=new A.de("unabele to read data",null,B.Kt,null,null,null,null,null,null)
-B.y9=new A.oB(B.w,null,null,B.N8,null)
+B.Na=new A.de("Unable to read data",null,B.Kt,null,null,null,null,null,null)
+B.y9=new A.oB(B.w,null,null,B.Na,null)
 B.HH=new A.pZ(B.y9,B.l,null)
 B.co=new A.lg(0,"idle")
 B.HI=new A.lg(1,"transientCallbacks")
@@ -71660,8 +71660,8 @@ B.vN=new A.q(!0,B.l,null,null,null,null,null,null,null,null,null,null,null,null,
 B.N5=new A.de("submit",null,B.vN,null,null,null,null,null,null)
 B.kK=new A.q(!0,B.i,null,null,null,null,17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.N6=new A.de("Nawabganj Model Govt. Primary School\n2011-2016",null,B.kK,null,null,null,null,null,null)
-B.N9=new A.de("Fill the from",null,B.vN,null,null,null,null,null,null)
-B.Na=new A.de("100%",null,B.bV,null,null,null,null,null,null)
+B.N8=new A.de("Fill the from",null,B.vN,null,null,null,null,null,null)
+B.N9=new A.de("100%",null,B.bV,null,null,null,null,null,null)
 B.Nb=new A.de("- \ud83d\udceb Working hours 14hrs/week now. Previously 70+hrs/week. Hope I will be productive as possible again in next few years.",null,B.vO,null,null,null,null,null,null)
 B.Nc=new A.de("40%",null,B.bV,null,null,null,null,null,null)
 B.Nd=new A.de("Textile Vocational Institute\n2019-2022",null,B.kK,null,null,null,null,null,null)
